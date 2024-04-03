@@ -1,0 +1,9 @@
+{"companyName":"GoMarket","clientID":"47be243a-77cd-4459-affe-125abac6604d","clientSecret":"RNWUPFNWQYlpDaJY","ownerName":"Chirag Gupta","ownerEmail":"cs8467@srmist.edu.in","rollNo":"RA2111003010171"}
+
+
+
+
+
+
+
+{'token_type': 'Bearer', 'access_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzEyMTUwNjkyLCJpYXQiOjE3MTIxNTAzOTIsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjQ3YmUyNDNhLTc3Y2QtNDQ1OS1hZmZlLTEyNWFiYWM2NjA0ZCIsInN1YiI6ImNzODQ2N0Bzcm1pc3QuZWR1LmluIn0sImNvbXBhbnlOYW1lIjoiR29NYXJrZXQiLCJjbGllbnRJRCI6IjQ3YmUyNDNhLTc3Y2QtNDQ1OS1hZmZlLTEyNWFiYWM2NjA0ZCIsImNsaWVudFNlY3JldCI6IlJOV1VQRk5XUVlscERhSlkiLCJvd25lck5hbWUiOiJDaGlyYWcgR3VwdGEiLCJvd25lckVtYWlsIjoiY3M4NDY3QHNybWlzdC5lZHUuaW4iLCJyb2xsTm8iOiJSQTIxMTEwMDMwMTAxNzEifQ.NLr0BxDvjHFf_K5sPz3AF8Q0WfMZOga1CbfXEaUhwuA', 'expires_in': 1712150692}
